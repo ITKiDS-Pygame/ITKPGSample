@@ -8,3 +8,5 @@ Please make sure evverything is cloned appropriately before declaring the job co
 
 greeting = "Hello World"
 print(greeting)
+
+computers_completed = 2
