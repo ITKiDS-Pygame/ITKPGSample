@@ -10,3 +10,5 @@ greeting = "Hello World"
 print(greeting)
 
 computers_completed = 2
+
+print("東伏見のパソコンはほぼ殺されたけど。。。。")
